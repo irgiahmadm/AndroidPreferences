@@ -1,0 +1,19 @@
+ext {
+    support_version = '25.2.0'
+    timber_version = '4.1.2'
+    colorpicker_version = '0.0.13'
+
+    dependencies = [
+            appCompat        : "com.android.support:appcompat-v7:$support_version",
+            support          : "com.android.support:support-v4:$support_version",
+            preferencev7     : "com.android.support:preference-v7:$support_version",
+            preferencev14    : "com.android.support:preference-v14:$support_version",
+
+            kotlin           : "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version",
+
+            timber           : "com.jakewharton.timber:timber:$timber_version",
+
+            colorpicker      : "com.github.QuadFlask:colorpicker:$colorpicker_version"
+    ]
+
+}
