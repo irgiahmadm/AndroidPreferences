@@ -8,7 +8,6 @@ import android.support.v7.preference.PreferenceDialogFragmentCompat
 import android.util.AttributeSet
 import android.view.View
 import android.widget.NumberPicker
-import preferences.android.kivitro.net.androidpreferences.R
 import timber.log.Timber
 
 /**
