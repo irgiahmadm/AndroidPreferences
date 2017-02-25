@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="preferences.android.kivitro.net.androidpreferences">
+          package="net.kivitro.android.preferences">
 
     <application
         android:allowBackup="true"
